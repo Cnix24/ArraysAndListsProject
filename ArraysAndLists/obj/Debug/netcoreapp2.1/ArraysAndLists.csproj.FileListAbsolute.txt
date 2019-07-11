@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.AssemblyInfo.cs
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.deps.json
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.runtimeconfig.json
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.dll
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp2.1\ArraysAndLists.pdb
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.dll
+C:\Users\cback\source\repos\RandomProjects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp2.1\ArraysAndLists.pdb
